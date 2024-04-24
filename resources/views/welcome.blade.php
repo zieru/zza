@@ -46,7 +46,7 @@
 <th rowspan="2">Nama CSR</th>
 <th rowspan="2">Customer Served</th>
 <th colspan="5" style="text-align:center">Star Acquisitions Januari 2024</th>
-<th rowspan="2">Cetar</th>
+<th rowspan="2">Shafa</th>
 
 </tr>
  <tr>
